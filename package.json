@@ -1,0 +1,31 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "this is a landing page for some teaching courses From Oleg F Oganesyan",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html",
+    "test": "jest"
+  },
+  "author": "Oleg F Oganesyan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freevich/freevich.online.git"
+  },
+  "bugs": {
+    "url": "https://github.com/freevich/freevich.online/issues"
+  },
+  "homepage": "https://github.com/freevich/freevich.online#readme",
+  "dependencies": {
+    "backbone": "^1.5.0",
+    "clojurescript": "^0.0.11",
+    "jasmine": "^5.1.0",
+    "jquery": "^3.7.1",
+    "mathjax-full": "^3.2.2",
+    "underscore": "^1.13.6"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
