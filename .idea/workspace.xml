@@ -2,14 +2,127 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="716eed7a-8219-48f2-aa7f-e570f09cb7c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/myFiles/editor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Freevich.online.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearnThat.ru.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htmlTemplates/indexList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htmlTemplates/section_00_Preloader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htmlTemplates/section_01_Header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htmlTemplates/section_02_Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htmlTemplates/section_03_About.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htmlTemplates/section_04_Services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htmlTemplates/section_05_Works.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htmlTemplates/section_06_Clients.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htmlTemplates/section_07_Testimonials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htmlTemplates/section_08_Contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htmlTemplates/section_09_Footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htmlTemplates/section_10_PhotoSwipeBackground.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htmlTemplates/section_11_JavaScript.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extra/run.html" beforeDir="false" afterPath="$PROJECT_DIR$/extra/run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/fa-brands.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/css/fa-brands.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/fa-brands.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/css/fa-brands.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/fa-regular.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/css/fa-regular.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/fa-regular.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/css/fa-regular.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/fa-solid.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/css/fa-solid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/fa-solid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/css/fa-solid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/fontawesome-all.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/css/fontawesome-all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/fontawesome-all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/css/fontawesome-all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/fontawesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/css/fontawesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/fontawesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/css/fontawesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/micons/fonts/icomoon.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/micons/fonts/icomoon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/micons/fonts/icomoon.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/fonts/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/micons/fonts/icomoon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/micons/micons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/micons/micons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/vendor.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/vendor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extra/js/addingPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extra/run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/._.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/._.DS_Store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/FaviconForLearnThat_001.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/FaviconForLearnThat_001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/LogoForLearnThat.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/LogoForLearnThat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/gallery/Photo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/gallery/Photo1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/gallery/Photo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/gallery/Photo2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/gallery/Photo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/gallery/Photo3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/gallery/Photo4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/gallery/Photo4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/gallery/Photo5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/gallery/Photo5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/gallery/Photo6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/gallery/Photo6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/gallery/Photo7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/gallery/Photo7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/portfolio/Photo1_1200_1200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/portfolio/Photo1_1200_1200.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/portfolio/Photo1_600_600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/portfolio/Photo1_600_600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/portfolio/Photo2_1200_1200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/portfolio/Photo2_1200_1200.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/portfolio/Photo2_600_600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/portfolio/Photo2_600_600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/portfolio/Photo3_1200_1200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/portfolio/Photo3_1200_1200.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/portfolio/Photo3_600_600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/portfolio/Photo3_600_600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/portfolio/Photo4_200_1200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/portfolio/Photo4_200_1200.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/portfolio/Photo4_600_600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/portfolio/Photo4_600_600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/portfolio/Photo5_1200_1200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/portfolio/Photo5_1200_1200.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/portfolio/Photo5_600_600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/portfolio/Photo5_600_600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/portfolio/Photo6_1200_1200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/portfolio/Photo6_1200_1200.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/portfolio/Photo6_600_600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/portfolio/Photo6_600_600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/sourceImages/1645195866_37-kartinkin-net-p-kartinki-programmirovanie-46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/sourceImages/1645195866_37-kartinkin-net-p-kartinki-programmirovanie-46.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/sourceImages/1661349408_45-oir-mobi-p-fon-programmirovanie-instagram-48.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/sourceImages/1661349408_45-oir-mobi-p-fon-programmirovanie-instagram-48.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/sourceImages/6079aa815df83087590548.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/sourceImages/6079aa815df83087590548.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/sourceImages/71_1101211542689983.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/sourceImages/71_1101211542689983.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/sourceImages/829850f77e133e0cab5161d4f49b1172.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/sourceImages/829850f77e133e0cab5161d4f49b1172.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/sourceImages/imgpreview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/sourceImages/imgpreview.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/sourceImages/systems-analyst.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/sourceImages/systems-analyst.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/sourceImages/ustalo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/sourceImages/ustalo3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/sourceImages/СидитСпинойУКомпьютера.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/sourceImages/СидитСпинойУКомпьютера.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MyImages/sourceImages/Фронтенд-разработка.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/MyImages/sourceImages/Фронтенд-разработка.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Untitled.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/Untitled.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hero-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/hero-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/icon-play.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/icon-play.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/icon-quote.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/icon-quote.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/icon-up.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/icon-up.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/imageForMastaerClasses_001.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/imageForMastaerClasses_001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pattern.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/pattern.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photoswipe/default-skin.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photoswipe/default-skin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photoswipe/default-skin.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photoswipe/default-skin.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photoswipe/preloader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photoswipe/preloader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/fuji.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/fuji.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/fuji@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/fuji@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/gallery/g-beetle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/gallery/g-beetle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/gallery/g-fuji.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/gallery/g-fuji.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/gallery/g-lamp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/gallery/g-lamp.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/gallery/g-salad.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/gallery/g-salad.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/gallery/g-shutterbug.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/gallery/g-shutterbug.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/gallery/g-woodcraft.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/gallery/g-woodcraft.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/lady-shutterbug.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/lady-shutterbug.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/lady-shutterbug@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/lady-shutterbug@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/lamp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/lamp.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/lamp@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/lamp@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/salad.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/salad.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/salad@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/salad@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/the-beetle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/the-beetle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/the-beetle@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/the-beetle@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/woodcraft.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/woodcraft.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/woodcraft@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio/woodcraft@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sample-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/sample-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wheel-1000.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/wheel-1000.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wheel-2000.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/wheel-2000.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wheel-500.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/wheel-500.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/basicFiles/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/basicFiles/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/myFiles/editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/myFiles/editor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendors/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/vendors/jquery-3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendors/modernizr.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/vendors/modernizr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendors/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/vendors/plugins.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,17 +136,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="592">
+              <caret line="58" lean-forward="true" selection-start-line="33" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/htmlTemplates/indexList.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
+        <entry file="file://$PROJECT_DIR$/../Freevich.online - Copy/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2662">
+              <caret line="746" column="58" lean-forward="true" selection-start-line="745" selection-end-line="746" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/htmlTemplates/section_09_Footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="54" selection-start-line="1" selection-end-line="2" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46530">
               <caret line="2115" selection-start-line="2115" selection-end-line="2115" />
@@ -48,6 +188,7 @@
       <list>
         <option value="CoffeeScript File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -80,8 +221,22 @@
         <option value="$PROJECT_DIR$/src/clojurescript/helloworld.cljs" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/extra/run.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/myFiles/editor.js" />
+        <option value="$PROJECT_DIR$/src/html/sectionHome.html" />
+        <option value="$PROJECT_DIR$/src/html/sectionHeader.html" />
+        <option value="$PROJECT_DIR$/src/htmlTemplates/sectionAbout.html" />
+        <option value="$PROJECT_DIR$/src/htmlTemplates/sectionServices.html" />
+        <option value="$PROJECT_DIR$/src/htmlTemplates/sectionWorks.html" />
+        <option value="$PROJECT_DIR$/src/htmlTemplates/sectionClients.html" />
+        <option value="$PROJECT_DIR$/src/htmlTemplates/sectionTestimonials.html" />
+        <option value="$PROJECT_DIR$/src/htmlTemplates/sectionContact.html" />
+        <option value="$PROJECT_DIR$/src/htmlTemplates/sectionFooter.html" />
+        <option value="$PROJECT_DIR$/src/htmlTemplates/sectionPhotoSwipeBackground.html" />
+        <option value="$PROJECT_DIR$/src/htmlTemplates/sectionPreloader.html" />
+        <option value="$PROJECT_DIR$/src/htmlTemplates/sectionJavaScript.html" />
+        <option value="$PROJECT_DIR$/../Freevich.online - Copy/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/htmlTemplates/indexList.html" />
       </list>
     </option>
   </component>
@@ -96,7 +251,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -119,12 +274,13 @@
             <path>
               <item name="LearnThat.ru" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learnthat.ru" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearnThat.ru" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learnthat.ru" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="htmlTemplates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,12 +289,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Freevich.online - Copy/index.html" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ooganesyan\Downloads\MY_EDU_PROJECTS\WEB\Learnthat.ru\src" />
       <recent name="C:\Users\ooganesyan\Downloads\MY_EDU_PROJECTS\WEB\Learnthat.ru" />
       <recent name="C:\Users\ooganesyan\Downloads\MY_EDU_PROJECTS\WEB\Freevich.online\src" />
     </key>
@@ -202,7 +361,7 @@
       <workItem from="1694459023664" duration="4288000" />
       <workItem from="1694471317329" duration="1077000" />
       <workItem from="1694472622103" duration="339000" />
-      <workItem from="1694554448456" duration="522000" />
+      <workItem from="1694554448456" duration="3283000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1694392909422</created>
@@ -215,16 +374,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17961000" />
+    <option name="totallyTimeSpent" value="20722000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2207304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32949308" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -232,7 +392,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32949308" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.4170507" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.22465438" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32949308" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -300,19 +460,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/portfolio/gallery/g-shutterbug.jpg">
+    <entry file="file://$PROJECT_DIR$/src/images/portfolio/gallery/g-shutterbug.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/portfolio/lady-shutterbug.jpg">
+    <entry file="file://$PROJECT_DIR$/src/images/portfolio/lady-shutterbug.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/micons/micons.css">
+    <entry file="file://$PROJECT_DIR$/src/css/micons/micons.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-15246" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/extra/package-lock.json" />
-    <entry file="file://$PROJECT_DIR$/css/vendor.css">
+    <entry file="file://$PROJECT_DIR$/src/css/vendor.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1972">
           <caret line="2137" column="47" selection-start-line="2137" selection-start-column="47" selection-end-line="2137" selection-end-column="47" />
@@ -320,14 +480,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles.html" />
-    <entry file="file://$PROJECT_DIR$/css/base.css">
+    <entry file="file://$PROJECT_DIR$/src/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1364">
           <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/vendors/plugins.js">
+    <entry file="file://$PROJECT_DIR$/src/js/vendors/plugins.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="43" column="31" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="37" />
@@ -335,7 +495,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt" />
-    <entry file="file://$PROJECT_DIR$/js/vendors/modernizr.js">
+    <entry file="file://$PROJECT_DIR$/src/js/vendors/modernizr.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="10" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="24" />
@@ -344,13 +504,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/extra/js/mainPage.js" />
     <entry file="file://$PROJECT_DIR$/extra/css/mainExtraStyle.css" />
-    <entry file="file://$PROJECT_DIR$/css/micons/fonts/icomoon.svg">
+    <entry file="file://$PROJECT_DIR$/src/css/micons/fonts/icomoon.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/logo.png">
+    <entry file="file://$PROJECT_DIR$/src/images/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/basicFiles/main.js">
+    <entry file="file://$PROJECT_DIR$/src/js/basicFiles/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
@@ -385,31 +545,129 @@
         <state relative-caret-position="-1254" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extra/run.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/src/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46530">
           <caret line="2115" selection-start-line="2115" selection-end-line="2115" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/myFiles/editor.js">
+    <entry file="file://$PROJECT_DIR$/src/js/myFiles/editor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/extra/run.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlTemplates/section_02_Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlTemplates/section_01_Header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlTemplates/section_03_About.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlTemplates/section_04_Services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlTemplates/section_05_Works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="239" lean-forward="true" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlTemplates/section_06_Clients.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlTemplates/section_07_Testimonials.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlTemplates/section_08_Contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlTemplates/section_00_Preloader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlTemplates/section_11_JavaScript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlTemplates/section_10_PhotoSwipeBackground.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="54" lean-forward="true" selection-start-line="1" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlTemplates/section_09_Footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="54" selection-start-line="1" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Freevich.online - Copy/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2662">
+          <caret line="746" column="58" lean-forward="true" selection-start-line="745" selection-end-line="746" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="592">
+          <caret line="58" lean-forward="true" selection-start-line="33" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlTemplates/indexList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
