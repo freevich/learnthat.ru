@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/freevich/freevich.online#readme",
   "dependencies": {
+    "@editorjs/editorjs": "^2.28.0",
     "backbone": "^1.5.0",
     "clojurescript": "^0.0.11",
     "jasmine": "^5.1.0",
